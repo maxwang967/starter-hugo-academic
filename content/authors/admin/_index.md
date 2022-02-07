@@ -1,7 +1,7 @@
 ---
 title: Chenxing Wang
 role: P.h.D, Research Assistant, Software Tech Lead and Adviser
-avatar_filename: wms-original.jpeg
+avatar_filename: 王晨星_2021010257.jpg
 bio: I work on machine learning and deep learning methods for intelligent
   transportation systems. I’m generally interested in travel time estimation,
   traffic flow prediction based on spatio-temporal data and methods and
