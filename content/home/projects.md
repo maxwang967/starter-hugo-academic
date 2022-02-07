@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Travel Time Estimation
+    tag: Travel Time Estimation
+  - name: Traffic Forecasting
+    tag: Traffic Forecasting
+  - name: Transportation Mode Detection
+    tag: Transportation Mode Detection
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

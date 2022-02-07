@@ -11,8 +11,7 @@ bio: I work on machine learning and deep learning methods for intelligent
 interests:
   - Artificial Intelligence
   - Spatio-temporal Data Mining
-  - Flutter
-  - Android and Django
+  - Flutter, Android and Django
 social:
   - icon: envelope
     icon_pack: fas

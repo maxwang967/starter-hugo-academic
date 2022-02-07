@@ -32,11 +32,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["tte"]
 publishDate: '2022-02-07T08:37:42.435740Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Intelligent Transportation Systems*'
 doi: 10.1109/TITS.2022.3145382
+links:
+- name: Code
+  url: https://github.com/morningstarwang/MetaTTE
 ---

@@ -26,11 +26,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["tmd"]
 publishDate: '2022-02-07T08:37:43.181832Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*计算机应用*'
 doi: ''
+links:
+- name: URL
+  url: http://kns.cnki.net/kcms/detail/51.1307.TP.20210621.1654.012.html
 ---
