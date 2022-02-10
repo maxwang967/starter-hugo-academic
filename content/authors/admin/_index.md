@@ -1,6 +1,6 @@
 ---
 title: Chenxing Wang
-role: P.h.D, Research Assistant, Software Tech Lead and Adviser
+role: P.h.D, Research Assistant, Reviewer, Software Tech Lead and Adviser
 avatar_filename: avatar.jpg
 bio: I work on machine learning and deep learning methods for intelligent
   transportation systems. I’m generally interested in travel time estimation,
