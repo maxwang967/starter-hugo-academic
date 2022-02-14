@@ -37,7 +37,7 @@ publication_types:
 abstract: ''
 publication: '*International Journal of Intelligent Systems*'
 doi: 10.1002/int.22855
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1002/int.22855
+# links:
+# - name: URL
+#   url: https://onlinelibrary.wiley.com/doi/10.1002/int.22855
 ---
