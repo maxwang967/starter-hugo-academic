@@ -1,6 +1,6 @@
 ---
 title: Chenxing Wang
-role: P.h.D, Research Assistant, Reviewer, Software Tech Lead and Adviser
+role: P.h.D, Research Assistant, Reviewer, Software Tech Lead, Adviser and User Group Volunteer
 avatar_filename: avatar.jpg
 bio: I work on machine learning and deep learning methods for intelligent
   transportation systems. I’m generally interested in travel time estimation,
@@ -42,6 +42,6 @@ highlight_name: true
 ---
 I'm currently pursing P.h.D in Beijing University of Posts and Telecomunications working as a research assistant in the Institute of Computing Technology of the Chinese Academy of Sciences. 
 
-I'm also serving as Reviewer in IEEE Network Magazine, Software Tech Lead in DYZN, as well as Adviser in HBY, LY and Path Academics.
+I'm also serving as Reviewer in IEEE Network Magazine, Software Tech Lead in DYZN, Adviser in HBY, LY and Path Academics as well as User Group Volunteer at AWS.
 
 I work on machine learning and deep learning methods for intelligent transportation systems. I’m generally interested in travel time estimation, traffic flow prediction based on spatio-temporal data and methods and transportation mode detection. Specially, I'm mainly focusing on data mining techniques for time series data and non-Euclidean structure data (e.g. attention-based methods or graph neural networks etc.).
