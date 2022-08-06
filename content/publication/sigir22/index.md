@@ -35,7 +35,7 @@ publishDate: '2022-02-10T08:37:42.885065Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*SIGIR \'22: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval*'
+publication: '*SIGIR 22: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval*'
 doi: 10.1145/3477495.3531905
 # links:
 # - name: URL
