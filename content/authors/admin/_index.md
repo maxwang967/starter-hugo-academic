@@ -40,7 +40,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm currently pursing P.h.D in Beijing University of Posts and Telecomunications working as a research assistant in the Institute of Computing Technology of the Chinese Academy of Sciences. 
+I'm currently pursing P.h.D in Beijing University of Posts and Telecommunications working as a research assistant in the Institute of Computing Technology of the Chinese Academy of Sciences. 
 
 I'm also serving as Reviewer in IEEE Network Magazine, Hindawi etc., Software Tech Lead in DYZN, Adviser in HBY, LY and Path Academics as well as User Group Volunteer at AWS.
 
